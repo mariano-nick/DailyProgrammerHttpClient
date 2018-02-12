@@ -14,7 +14,7 @@ namespace DailyProgrammerWebClient
             var httpGet = new FetchHttpContentGet(urlDis);
             // ENDED AT ADDING PAGE TO GET LINE
             httpGet.Fetch();
-            Console.WriteLine("Press any key to continue...");
+            Console.WriteLine("Press any key to continue..."); 
 
 
         }
